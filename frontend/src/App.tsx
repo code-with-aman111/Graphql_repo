@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Getclient from "./components/Getclient";
+import Getclient from "./components/GetClient";
 import GetSingleclient from "./components/GetSingleclient";
 
 const App = () => {

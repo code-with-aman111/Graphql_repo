@@ -1,11 +1,11 @@
-// import GetSingleclient from "../components/GetSingleclient";
+import GetSingleclient from "../components/GetSingleclient";
 
-// const Home = () => {
-//   return (
-//     <div>
-//       <GetSingleclient />
-//     </div>
-//   );
-// };
+const Home = () => {
+  return (
+    <div>
+      <GetSingleclient />
+    </div>
+  );
+};
 
-// export default Home;
+export default Home;
